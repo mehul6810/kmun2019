@@ -6,7 +6,7 @@ DO NOT push directly to master.
 
 
 # Hosting
-We are hosting the website on cpanel at kmun.in/cpanel. Since we are not using Gulp tasks, there is no automation for updating the files in cpanel, and hence must be done manually. 
+We are hosting the website on cpanel at kmun.in/cpanel. There is no automation for updating the files in cpanel, and hence must be done manually. 
 
 
 # License
